@@ -3,7 +3,6 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    float: left;
     background-color: yellowgreen;
 }
 #education{
@@ -11,7 +10,6 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    float: left;
     background-color: wheat;
 }
 #form{
@@ -19,7 +17,6 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    float: left;
     background-color: tomato;
 }
 #form1{
@@ -29,7 +26,7 @@
     padding: 20px;
     background-color: tomato;
 }
-div{
+.divs{
     border: 2px solid green;
     border-radius: 15px;
 }
@@ -48,4 +45,7 @@ img{
 }
 span{
     color: red;
+}
+#main-div{
+    display: flex;
 }
