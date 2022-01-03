@@ -1,0 +1,51 @@
+#about{
+    width: 500px;
+    height: 380px;
+    margin-top: 0px;
+    padding: 20px;
+    display: inline-block;
+    background-color: yellowgreen;
+}
+#education{
+    width: 500px;
+    height: 380px;
+    margin-top: 0px;
+    padding: 20px;
+    display: inline-block;
+    background-color: wheat;
+}
+#form{
+    width: 500px;
+    height: 380px;
+    margin-top: 0px;
+    padding: 20px;
+    display: inline-block;
+    background-color: tomato;
+}
+#form1{
+    width: 500px;
+    height: 380px;
+    margin-top: 0px;
+    padding: 20px;
+    background-color: tomato;
+}
+div{
+    border: 2px solid green;
+    border-radius: 15px;
+}
+body{
+    background-color: navajowhite;
+}
+h1{
+    text-align: center;
+}
+#about h2{
+    text-align: center;
+}
+img{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+span{
+    color: red;
+}
