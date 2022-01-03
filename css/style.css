@@ -17,18 +17,19 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    background-color: tomato;
+    background-color: darkkhaki;
 }
 #form1{
     width: 500px;
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    background-color: tomato;
+    background-color: tan;
 }
 .divs{
     border: 2px solid green;
     border-radius: 15px;
+    margin: 20px;
 }
 body{
     background-color: navajowhite;
@@ -40,12 +41,14 @@ h1{
     text-align: center;
 }
 img{
-    margin-left: 120px;
-    margin-top: 20px;
-}
-span{
-    color: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
 }
 #main-div{
     display: flex;
+}
+#form h3{
+    margin-top: 180px; text-align: center;
 }
