@@ -3,7 +3,7 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    display: inline-block;
+    float: left;
     background-color: yellowgreen;
 }
 #education{
@@ -11,7 +11,7 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    display: inline-block;
+    float: left;
     background-color: wheat;
 }
 #form{
@@ -19,7 +19,7 @@
     height: 380px;
     margin-top: 0px;
     padding: 20px;
-    display: inline-block;
+    float: left;
     background-color: tomato;
 }
 #form1{
